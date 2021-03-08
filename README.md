@@ -1,7 +1,9 @@
 This project involves training a simple CNN to classify CIFAR images. It uses the Keras Sequential API.
 
 CIFAR dataset contains 60,000 color images in 10 different classes. The dataset has been divided into 50,000 training images and 10,000 testing images. The classes are mutually exclusive and hence, they have no overlap.
+
 Images in CIFAR 
+
 ![image](https://user-images.githubusercontent.com/58817460/110321060-2e1ad880-8037-11eb-99cb-8eadb033cc32.png)
 
 Keras is a high level API used to write shorter codes (Approx. 1000 lines of python code can be written by using just 5 functions of Keras). It is a subset of TensorFlow
